@@ -5,4 +5,4 @@ Challenge 19 - Unsupervised machine learning
   crypto_market_data.csv
 ## Crypto_Clustering.ipynb
 
-For this project, unsupervised machine learning was used to predict the future prices of various types of crypto currency.
+For this assignment, unsupervised machine learning was used to predict the future prices of various types of crypto currency.
